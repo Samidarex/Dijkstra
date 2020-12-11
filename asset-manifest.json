@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/Dijkstra/static/js/main.98983bf7.chunk.js",
+    "main.js.map": "/Dijkstra/static/js/main.98983bf7.chunk.js.map",
+    "runtime-main.js": "/Dijkstra/static/js/runtime-main.5e050f2a.js",
+    "runtime-main.js.map": "/Dijkstra/static/js/runtime-main.5e050f2a.js.map",
+    "static/js/2.fb971bd4.chunk.js": "/Dijkstra/static/js/2.fb971bd4.chunk.js",
+    "static/js/2.fb971bd4.chunk.js.map": "/Dijkstra/static/js/2.fb971bd4.chunk.js.map",
+    "index.html": "/Dijkstra/index.html",
+    "precache-manifest.2c58eb7518ab6c7eea1606b5871b54c0.js": "/Dijkstra/precache-manifest.2c58eb7518ab6c7eea1606b5871b54c0.js",
+    "service-worker.js": "/Dijkstra/service-worker.js",
+    "static/js/2.fb971bd4.chunk.js.LICENSE.txt": "/Dijkstra/static/js/2.fb971bd4.chunk.js.LICENSE.txt",
+    "static/media/800px-Edsger_Wybe_Dijkstra.jpg": "/Dijkstra/static/media/800px-Edsger_Wybe_Dijkstra.176d86de.jpg",
+    "static/media/dijkstra.png": "/Dijkstra/static/media/dijkstra.1d48feff.png",
+    "static/media/footer.d2d307f4.svg": "/Dijkstra/static/media/footer.d2d307f4.svg",
+    "static/media/svg-1.svg": "/Dijkstra/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/Dijkstra/static/media/svg-2.d4846e11.svg",
+    "static/media/wave.c329ad9d.svg": "/Dijkstra/static/media/wave.c329ad9d.svg",
+    "static/media/wave1.ef566bcc.svg": "/Dijkstra/static/media/wave1.ef566bcc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e050f2a.js",
+    "static/js/2.fb971bd4.chunk.js",
+    "static/js/main.98983bf7.chunk.js"
+  ]
+}
