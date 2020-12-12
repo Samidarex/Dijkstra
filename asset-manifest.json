@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/dijkstra/static/js/main.fc6d4c6d.chunk.js",
-    "main.js.map": "/dijkstra/static/js/main.fc6d4c6d.chunk.js.map",
+    "main.js": "/dijkstra/static/js/main.8e3fbaa7.chunk.js",
+    "main.js.map": "/dijkstra/static/js/main.8e3fbaa7.chunk.js.map",
     "runtime-main.js": "/dijkstra/static/js/runtime-main.ffd8b1a6.js",
     "runtime-main.js.map": "/dijkstra/static/js/runtime-main.ffd8b1a6.js.map",
-    "static/js/2.be6be487.chunk.js": "/dijkstra/static/js/2.be6be487.chunk.js",
-    "static/js/2.be6be487.chunk.js.map": "/dijkstra/static/js/2.be6be487.chunk.js.map",
+    "static/js/2.bd24072a.chunk.js": "/dijkstra/static/js/2.bd24072a.chunk.js",
+    "static/js/2.bd24072a.chunk.js.map": "/dijkstra/static/js/2.bd24072a.chunk.js.map",
     "index.html": "/dijkstra/index.html",
-    "precache-manifest.51e156b61f65c817eef08b683d7bd650.js": "/dijkstra/precache-manifest.51e156b61f65c817eef08b683d7bd650.js",
+    "precache-manifest.0f704e29e1e1d03015f6e257e5b6fb92.js": "/dijkstra/precache-manifest.0f704e29e1e1d03015f6e257e5b6fb92.js",
     "service-worker.js": "/dijkstra/service-worker.js",
-    "static/js/2.be6be487.chunk.js.LICENSE.txt": "/dijkstra/static/js/2.be6be487.chunk.js.LICENSE.txt",
+    "static/js/2.bd24072a.chunk.js.LICENSE.txt": "/dijkstra/static/js/2.bd24072a.chunk.js.LICENSE.txt",
     "static/media/800px-Edsger_Wybe_Dijkstra.jpg": "/dijkstra/static/media/800px-Edsger_Wybe_Dijkstra.176d86de.jpg",
     "static/media/dijkstra.png": "/dijkstra/static/media/dijkstra.1d48feff.png",
     "static/media/footer.d2d307f4.svg": "/dijkstra/static/media/footer.d2d307f4.svg",
@@ -20,7 +20,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ffd8b1a6.js",
-    "static/js/2.be6be487.chunk.js",
-    "static/js/main.fc6d4c6d.chunk.js"
+    "static/js/2.bd24072a.chunk.js",
+    "static/js/main.8e3fbaa7.chunk.js"
   ]
 }
