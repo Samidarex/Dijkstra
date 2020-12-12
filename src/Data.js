@@ -4,8 +4,8 @@ import Slide from 'react-reveal/Slide';
 import Fade from 'react-reveal/Fade';
 import Jump from 'react-reveal/Jump';
 import Lottie from 'react-lottie';
-import * as loading from '../../images/38577-plan-for-business-gowth.json';
-import * as aa from '../../images/aa.json';
+import * as loading from './images/38577-plan-for-business-gowth.json';
+import * as aa from './images/aa.json';
 
 const defaultOptions = {
   loop: true,
@@ -74,7 +74,7 @@ export const homeObjThree = {
 />,
   buttonLabel:<Jump>More about</Jump>,
   imgStart: 'start',
-  img: require('../../images/dijkstra.png'),
+  img: require('./images/dijkstra.png'),
   alt: 'Vault',
   start: 'true'
 };
