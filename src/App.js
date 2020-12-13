@@ -3,9 +3,7 @@ import GlobalStyle from './globalStyles';
 import Acasa from './pages/acasa/acasa';
 import despre from './pages/despre/despre';
 import exemple from './pages/exemple/exemple';
-import { homeObjOne, homeObjTwo, homeObjThree, homeObjFour} from './Data';
-import { InfoSection} from './components';
-import Parallax from 'react-rellax';
+
 
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import ScrollToTop from './components/ScrollToTop';
@@ -42,25 +40,14 @@ function App() {
       <Navbar />
       <Switch>
         
-        <Route path='/' exact component={Acasa} />
+        <Route path='/dijkstra' exact component={Acasa} />
         <Route path='/despre' component={despre} />
         <Route path='/exemple' component={exemple} />
 
       </Switch>
-      <>
-      <Parallax speed={-5}>
-      
-      <InfoSection {...homeObjOne} />
-      
-      </Parallax>
-      <Parallax speed={5}>
-      <InfoSection {...homeObjThree} />
-      </Parallax>
-      <InfoSection {...homeObjTwo} />
-    </>
       <Footer />
       </> 
-} 
+}
    </div>
     </Router>
   );
